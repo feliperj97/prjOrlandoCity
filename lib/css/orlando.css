@@ -16,7 +16,17 @@ header .header-black{
 
 }
 
+header .header-black li{
+    background-image: url("../img/clubs.png");
+    background-repeat: no-repeat; 
+}
+
+header .header-black li a{
+    
+}
+
 header #logotipo{
     
     position: absolute;
+    top: -20px;
 }
