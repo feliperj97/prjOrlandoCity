@@ -1,0 +1,40 @@
+@font-face {
+    font-family: SimplonOi;
+    src: url("../fonts/SimplonOi-Headline.ttf"); 
+}
+
+@font-face {
+    font-family: SimplonOi;
+    src: url("../fonts/SimplonOi-Headline.otf"); 
+}
+
+@font-face {
+    font-family: SimplonOi;
+    src: url("../fonts/SimplonOi-Headline.woff"); 
+}
+
+body {
+  font-family:'SimplonOi', sans-serif !important;
+  background-color: #eee;
+}
+
+#titulo{
+	margin-bottom:70px;
+	
+}
+#bs-example-navbar-collapse-1{
+	background-color: rgb(77,77,77);
+	color: #000000!important;
+}
+
+#bs-example-navbar-collapse-1{
+	background-color: rgb(77,77,77);
+}
+
+.container{
+	font-family:'Arial', sans-serif !important;
+}
+
+legend{
+  font-family:'SimplonOi', sans-serif !important;
+}
