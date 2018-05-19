@@ -228,7 +228,7 @@ header #logotipo{
 }
 
 #news hr{
-    border: #FDE192 solid 2px;
+    border: #FDE192 solid 8px;
     width: 200px;
     margin: 0 auto;
 }
@@ -272,3 +272,21 @@ header #logotipo{
     display: block;
 }
 
+#call-to-action h2{
+    color: #5E2799;
+    font-family: 'OpenSans-Light';
+    font-size: 48px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#call-to-action hr{
+    border: #FDE192 solid 8px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+#call-to-action p{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
