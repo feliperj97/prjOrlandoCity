@@ -236,3 +236,18 @@ header #logotipo{
 #news .thumbnails{
     margin-top: 20px;
 }
+
+#news .thumbnails h3{
+    color: #5E299A;
+    font-size: 18px;
+    font-family: 'OpenSans';
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+#news .thumbnails time{
+    color: #A7A7A7;
+    font-size: 18px;
+    font-family: 'OpenSans';
+   
+}
